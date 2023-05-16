@@ -1,4 +1,4 @@
-# Hey There! 👋
+# Hello! 👋
 **I'm Hamid** - I'm a Flutter developer, currently, I Study Software Engineering, and I'm so interested in Dart/Flutter.
 
 # 💻 Tech Stack:
